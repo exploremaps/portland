@@ -2,6 +2,7 @@
 layout: post
 title: Adult Craft Night
 timelinedate: 2025-05-26
+hours: 4:00-5:30pm
 categories: ['Art', 'Tuesday', 'ODO']
 lat: 45.53221
 lng: -122.439251

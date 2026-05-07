@@ -4,6 +4,7 @@ title: Crafternoon for Adults
 
 
 timelinedate: 2025-05-27
+hours: 1-3:00pm
 categories: ['Art', 'Wednesday', 'ODO']
 lat: 45.49053
 lng: -122.58227

@@ -3,6 +3,7 @@ layout: post
 title: Portland Aerial Tram - Lower Terminal
 
 timelinedate: 2025-05-31
+hours: 5:30am-9:30pm/Sat 9-5
 categories: ['Tourism', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 lat: 45.4994587805947
 lng: -122.670485631231

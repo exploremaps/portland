@@ -2,6 +2,7 @@
 layout: post
 title: Kate’s Ice Cream
 timelinedate: 2025-05-31
+hours: 2–9 PM
 categories: ['Food', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 lat: 45.550100680919
 lng: -122.67562564538

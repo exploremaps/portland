@@ -2,6 +2,7 @@
 layout: post
 title: Potato Champion
 timelinedate: 2025-05-31
+hours: 11 AM–10 PM/Mon  to 9pm
 categories: ['Food', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 lat: 45.512268828889
 lng: -122.653547272424

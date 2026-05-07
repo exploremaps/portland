@@ -2,6 +2,7 @@
 layout: post
 title: Community Yoga
 timelinedate: 2025-05-24
+hours: 1-2pm
 categories: ['Exercise', 'Sunday', 'ODO']
 lat: 45.5110260666848
 lng: -122.65980710071

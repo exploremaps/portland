@@ -2,6 +2,7 @@
 layout: post
 title: Last Thursday Alberta art’s district
 timelinedate: 2025-05-28
+hours: 6-9pm
 categories: ['Art', 'Thursday', 'ODO']
 lat: 45.5594567352184
 lng: -122.651400903276

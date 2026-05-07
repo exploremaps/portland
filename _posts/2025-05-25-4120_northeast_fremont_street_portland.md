@@ -2,6 +2,7 @@
 layout: post
 title: Board Game Night
 timelinedate: 2025-05-25
+hours: 6:00 - 10:00pm
 categories: ['Exercise', 'Monday', 'ODO']
 lat: 45.5482745600408
 lng: -122.619812093798

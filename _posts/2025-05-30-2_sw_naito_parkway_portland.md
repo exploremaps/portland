@@ -2,6 +2,7 @@
 layout: post
 title: Portland Saturday Market
 timelinedate: 2025-05-30
+hours: 10-5pm
 categories: ['Art', 'Saturday', 'ODO']
 lat: 45.522168
 lng: -122.669866

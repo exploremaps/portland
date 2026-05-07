@@ -2,6 +2,7 @@
 layout: post
 title: Portland leather goods flagship
 timelinedate: 2025-05-31
+hours: 11-6pm
 categories: ['Art', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 lat: 45.493169
 lng: -122.64032
