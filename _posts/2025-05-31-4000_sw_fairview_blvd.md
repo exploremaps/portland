@@ -2,7 +2,7 @@
 layout: post
 title: Hoyt Arboretum
 timelinedate: 2025-05-31
-hours: 5am-10pm
+hours: 
 categories: ['Tourism', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 lat: 45.516787812399
 lng: -122.714847623262

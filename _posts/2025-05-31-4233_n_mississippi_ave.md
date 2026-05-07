@@ -2,7 +2,7 @@
 layout: post
 title: DesiPDX
 timelinedate: 2025-05-31
-hours: 11:30 AM–7:30 PM / Sun 11:30 AM–3:30 PM
+hours: 
 categories: ['Food', 'Sunday', 'Thursday', 'Friday', 'Saturday']
 lat: 45.554180721278
 lng: -122.675596468896

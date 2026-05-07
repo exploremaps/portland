@@ -2,7 +2,7 @@
 layout: post
 title: Portland Fish Market & Fish And Chips Window
 timelinedate: 2025-05-31
-hours: 10 AM–7 PM
+hours: 
 categories: ['Food', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 lat: 45.479124235706
 lng: -122.617354165177

@@ -2,7 +2,7 @@
 layout: post
 title: Whole Bowl
 timelinedate: 2025-05-31
-hours: 11-3pm
+hours: 
 categories: ['Food', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 lat: 45.519182484194
 lng: -122.678786905194
